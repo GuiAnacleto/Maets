@@ -13,3 +13,5 @@ Objetivo: Criar um programa que consegue abrir qualquer outro programa do comput
 =============================================================
 
 
+Agora estou trabalhando em uma interface gráfica. Caso alguem queira auxiliar segue meu email para contato:
+guilhermeanacleto@hotmail.com
