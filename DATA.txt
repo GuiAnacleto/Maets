@@ -1,0 +1,20 @@
+Codigo: 1
+Nome: VS Code
+Caminho: C:\Users\Guilh\AppData\Local\Programs\Microsoft VS Code\Code.exe
+Descrição: Interpretador de Codigo
+-----------------------------------------------------------
+Codigo: 2
+Nome: Chrome
+Caminho: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Descrição: Navegador Chrome
+-----------------------------------------------------------
+Codigo: 3
+Nome: Word
+Caminho: C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+Descrição: Programa do Pacote Office para construcao de documentos e formatacao de texto
+-----------------------------------------------------------
+Codigo: 4
+Nome: Excel
+Caminho: C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+Descrição: Programa do Pacote Office otimo para criar base de dados e automacoes
+-----------------------------------------------------------
